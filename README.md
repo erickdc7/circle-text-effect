@@ -1,4 +1,4 @@
 # Animated Circle Text Effects
-### This design belongs to [Online Tutorials](https://www.youtube.com/@OnlineTutorialsYT), you can see the video [here](https://youtu.be/tqOSN4K5ha4).
+### This design is inspired by the work of [Online Tutorials](https://www.youtube.com/@OnlineTutorialsYT). Click [here](https://youtu.be/tqOSN4K5ha4) to watch the video.
 
 ![preview img](/preview.png)
